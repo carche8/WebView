@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application. WebView</string>
+    <string name="et1">Campo para poner página web</string>
+    <string name="wv1">Para visualizar la página web indicada</string>
+    <string name="btn">Botón para volver</string>
+</resources>
